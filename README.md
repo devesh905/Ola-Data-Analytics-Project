@@ -1,4 +1,4 @@
-# OLA Data Analysis Project
+# OLA Data Analytics Project
 
 ## Project Overview
 This project is an in-depth analysis of OLA ride data, visualized through a comprehensive Power BI dashboard. The dashboard consists of five pages, answering various business questions related to ride volume, customer and driver ratings, vehicle types, booking statuses, revenue, and more.
