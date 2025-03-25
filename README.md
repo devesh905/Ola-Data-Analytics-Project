@@ -12,16 +12,16 @@ The aim of this project is to provide insights into OLA's ride-hailing service b
 
 ## Dashboard Pages
 
-### Ride Volume Over Time
-### Booking Status Breakdown
-### Top 5 Vehicle Types by Ride Distance
-### Average Customer Ratings by Vehicle Type
-### cancelled Rides Reasons
-### Revenue by Payment Method
-### Top 5 Customers by Total Booking Value
-### Ride Distance Distribution Per Day
-### Driver Ratings Distribution
-### Customer vs. Driver Ratings
+Ride Volume Over Time
+Booking Status Breakdown
+Top 5 Vehicle Types by Ride Distance
+Average Customer Ratings by Vehicle Type
+cancelled Rides Reasons
+Revenue by Payment Method
+Top 5 Customers by Total Booking Value
+Ride Distance Distribution Per Day
+Driver Ratings Distribution
+Customer vs. Driver Ratings
 
 ## How to Run the Project
 1. Open Power BI Desktop.
@@ -51,7 +51,6 @@ Below are the screenshots of each page of the dashboard for visual reference:
 ![Ratings](https://github.com/user-attachments/assets/57e9f1a6-85a1-4332-82b0-74e4f0aff307)
 
 
-... (Include all other relevant images following the same format)
 
 ## Conclusion
 The OLA Data Analysis project provides a clear, interactive way to explore business questions related to OLA's operations. The Power BI dashboard enables decision-makers to derive insights that can be used for improving customer service, optimizing vehicle allocation, and understanding revenue trends.
